@@ -40,3 +40,18 @@ Uruchomienie serwera deweloperskiego:
 ```python
 python app.py
 ```
+
+## Realizacja – wskazówki
+
+1. Zdefiniuj modele Klasa i Uczen w pliku modele.py.
+2. Zdefiniuj formularze dla dodawania/edycji klas i uczniów.
+3. Wgraj do katalogu templates szablon bazowy w Bootstrapie.
+4. W katalogu static umieść zasoby css, js itp.
+5. Przygotuj szablon index.html dziedziczący z szablonu bazowego.
+6. Przygotuj widok dodawania klas.
+7. Przygotuj widok edytowania klas.
+8. Przygotuj widok wyświetlający listę klas.
+9. Przygotuj widok dodawania uczniów.
+10. Przygotuj widok edytowania uczniów.
+11. Przygotuj widok wyświetlający listę uczniów.
+
