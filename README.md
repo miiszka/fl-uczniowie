@@ -50,8 +50,8 @@ python app.py
 5. Przygotuj szablon index.html dziedziczący z szablonu bazowego.
 6. Przygotuj widok dodawania klas.
 7. Przygotuj widok edytowania klas.
-8. Przygotuj widok wyświetlający listę klas.
-9. Przygotuj widok dodawania uczniów.
+8. Przygotuj wid klas.
+9. Przygotuj widok dodawania uczniów.ok wyświetlający listę
 10. Przygotuj widok edytowania uczniów.
 11. Przygotuj widok wyświetlający listę uczniów.
 
