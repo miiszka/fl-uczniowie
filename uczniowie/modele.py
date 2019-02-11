@@ -15,11 +15,16 @@ class BazaModel(Model):
 
 
 class Klasa(BazaModel):
-    pass
+    klasa = CharField(null=False)
+    rok_naboru = IntegerField(default=0)
+    rok_matury = IntegerField(default=0)
+
 
 
 class Uczen(BazaModel):
-    pass
+    uczen = CharField(null=False)
+    klasa = ForeignKeyField(Klasa, related_name='uczniowie')
+
 
 
 def main(args):
